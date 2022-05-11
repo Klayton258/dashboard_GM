@@ -1,0 +1,23 @@
+@import '@/assets/scss/_main';
+
+
+.sidebar{
+    width: 300px;
+    background-color: $teal;
+    height: 100vh;
+}
+.content-right{
+    height: 100vh;
+    width: calc(100% - 300px);
+
+    .navbar{
+        width: 100%;
+        height: 70px;
+        background-color: $teal;
+    }
+    .content{
+        width: 100%;
+        height: 100vh;
+        padding: 20px;
+    }
+}

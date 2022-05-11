@@ -1,0 +1,10 @@
+@import './colors';
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600&display=swap'); //font-family: 'Rajdhani', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;500;600;700&display=swap'); //font-family: 'Teko', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans:wght@300;400;500;600;700&display=swap'); //font-family: 'Spline Sans', sans-serif;
+
+.main{
+    display: flex;
+    height: 100vh;
+    font-family: 'Spline Sans', sans-serif;
+}
